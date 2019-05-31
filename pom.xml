@@ -3,7 +3,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.jorgeacetozi</groupId>
+	<groupId>com.chrissaretzky</groupId>
 	<artifactId>notepad</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
@@ -28,9 +28,9 @@
 	</properties>
 
 	<scm>
-		<connection>scm:git:git@github.com:jorgeacetozi/notepad.git</connection>
-		<developerConnection>scm:git:git@github.com:jorgeacetozi/notepad.git</developerConnection>
-		<url>scm:git:git@github.com:jorgeacetozi/notepad.git</url>
+		<connection>scm:git:git@github.com:chrissaretzky/notepad.git</connection>
+		<developerConnection>scm:git:git@github.com:chrissaretzky/notepad.git</developerConnection>
+		<url>scm:git:git@github.com:chrissaretzky/notepad.git</url>
 		<tag>HEAD</tag>
 	</scm>
 
